@@ -1,4 +1,4 @@
-# Shorting-Visualization
+# Shorting Visualization
 
 ## Scope
 
