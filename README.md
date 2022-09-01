@@ -1,5 +1,17 @@
 # Shorting Visualization
 
+## ABSTRACT
+
+Algorithm is an integral part of computers and programming. It provides consistency in solving similar tasks with a predictable and desirable outcome. Among algorithms, sorting algorithms are regarded as the gateway to the world of algorithms in programming. Evident by their definition, they are used to sorting data set with similar properties. There are various types of sorting algorithms with their distinct implementations and strategies. They are often not as easy to understand and absorb.
+
+A possible contributing factor can be the lack of visualization of the process and steps each one takes to accomplish the task of sorting. Thus, the objective of this project is to create a web application as a visualization tool.
+
+Basic understanding of programming languages.
+For common sorting algorithms namely -> Bubble sort, Merge sort, Quick sort, Insertion sort, Selection sort etc.  
+The result is a web application built using React and other modern JavaScript technologies.
+
+The application UI is able to visualize the sorting process using various colors or denote the status of the elements in the array. It includes features to select the size of the data (array of random numbers), visualization speed, sorting algorithm, Code of the algorithm implemented in multiple languages like C, C++, Java etc. The main objective of the project is met.
+
 ## Scope
 
 ### Objective :-
