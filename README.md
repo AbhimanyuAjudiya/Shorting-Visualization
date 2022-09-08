@@ -12,6 +12,27 @@ The result is a web application built using React and other modern JavaScript te
 
 The application UI is able to visualize the sorting process using various colors or denote the status of the elements in the array. It includes features to select the size of the data (array of random numbers), visualization speed, sorting algorithm, Code of the algorithm implemented in multiple languages like C, C++, Java etc. The main objective of the project is met.
 
+## Characteristics of existing system
+- Limited sorting algorithms
+- Supports feature of Random array.  
+- Easy to use.
+- Provides simple interface. 
+- New array is generated every time.
+- Customizable speed and size. 
+
+## Characteristics of proposed system (how it differs from existing system?)
+- It is a Dynamic web application.
+- It provides facility of multiple sorting algorithms.
+- It provides Rich interface.
+- It has a facility of Pause/play.
+- It gives description of each sorting technique.
+- It exhibits time and space complexity.
+- Code implementation in multiple languages.
+- Sorting can be done in Ascending or descending order.
+- It produces Sound while sorting.
+- Element range can be selected(10 to 1000).
+- Easy to use.
+
 ## Scope
 
 ### Objective :-
