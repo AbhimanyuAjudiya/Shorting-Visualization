@@ -39,7 +39,7 @@ The application UI is able to visualize the sorting process using various colors
 The main  of the  project is to create a web application as a visualization tool.
 
 ### Statement of work:-
- A single-page web application built using modern JavaScript technology that will visualize the flow and logic of various sorting algorithms. 
+ A multi-page web application built using modern JavaScript technology that will visualize the flow and logic of various sorting algorithms. 
 
 ### Deliverables and milestones:-
 The UI will contain options to select one of the sorting algorithms which were implemented and several items or elements in the data array, control buttons to start, pause, navigate to previous or next steps along with an option for sorting speed and colour mode.
