@@ -1,4 +1,4 @@
-# Shorting Visualization
+# Sorting Visualization
 
 ## ABSTRACT
 
