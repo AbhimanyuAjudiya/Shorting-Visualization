@@ -1,5 +1,5 @@
 # Sorting Visualization
-
+ 
 ## ABSTRACT
 
 Algorithm is an integral part of computers and programming. It provides consistency in solving similar tasks with a predictable and desirable outcome. Among algorithms, sorting algorithms are regarded as the gateway to the world of algorithms in programming. Evident by their definition, they are used to sorting data set with similar properties. There are various types of sorting algorithms with their distinct implementations and strategies. They are often not as easy to understand and absorb.
